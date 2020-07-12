@@ -1,0 +1,2 @@
+# conf
+init conf bash
